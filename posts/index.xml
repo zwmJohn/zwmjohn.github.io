@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on ZWM Blog</title>
+    <link>https://zwmjohn.github.io/posts/</link>
+    <description>Recent content in Posts on ZWM Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jul 2021 17:37:45 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 17:37:45 +0800</lastBuildDate><atom:link href="https://zwmjohn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GNN</title>
-      <link>http://example.org/posts/my-second-post/</link>
+      <link>https://zwmjohn.github.io/posts/my-second-post/</link>
       <pubDate>Thu, 15 Jul 2021 17:37:45 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-second-post/</guid>
+      <guid>https://zwmjohn.github.io/posts/my-second-post/</guid>
       <description>GNN GNN
 https://github.com/thunlp/GNNPapers
 这是GNN paper的清单，读一篇综述，读一点基本模型就可以随便读了
@@ -24,10 +24,10 @@ B 站地址：https://www.bilibili.com/video/av457264185/</description>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://zwmjohn.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 15 Jul 2021 17:19:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://zwmjohn.github.io/posts/my-first-post/</guid>
       <description>hi everyone!</description>
     </item>
     
